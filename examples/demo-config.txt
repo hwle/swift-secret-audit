@@ -1,0 +1,5 @@
+# This entire file is fictional dummy data for demonstrating a scanner.
+app_name = "Example App"
+api_key = "DEMO_NOT_A_REAL_TOKEN_12345"
+password = examplePassword123
+server_port = 8080
